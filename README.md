@@ -15,11 +15,11 @@ Importing a model to a path conatining
 
 Importing a texture to a path containging **Sprites** will set some features.
 
-Adding _RC'#1'x'#2' to the sprite will auto slice the sprite in '#1' rows and '#2' columns.
+Adding _CR'#1'x'#2' to the sprite will auto slice the sprite in '#1' rows and '#2' columns.
 
 Example
 
-awasomeSprite_RC4x6. 
+awasomeSprite_CR4x6. 
 
 Also the sprite packer will be set as the parent folder. 
 
